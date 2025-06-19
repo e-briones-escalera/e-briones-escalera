@@ -1,4 +1,4 @@
-<h1>Hi, I'm Estefania! <br/><a href="https://github.com/e-briones-escalera">Technical Sound Designer</a> and <a href="https://www.linkedin.com/in/e-briones-escalera/">Audio Engineer</a> 
+<h1>Hi, I'm Estefania! <br/><a href="https://www.9csound.com/game-audio">Technical Sound Designer</a> and <a href="https://www.linkedin.com/in/e-briones-escalera/">Audio Engineer</a> 
 
 <h2>👾Programming projects</h2>
 
@@ -16,6 +16,7 @@
 
 - [The Elder Scrolls Online: Elsweyr (trailer)](https://www.9csound.com/sound-for-film/v/the-elder-scrolls-online-elsweyr)
 - [Spiderman: Into the Spiderverse](https://www.9csound.com/sound-for-film/v/spiderman-into-the-spiderverse)
+- [Check more of my work here](https://www.9csound.com/)
 
 <h2>📧Connect with me</h2>
 
