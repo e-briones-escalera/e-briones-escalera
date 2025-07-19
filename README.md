@@ -1,4 +1,4 @@
-<h1>Welcome! I'm Estefania <br/><a href="https://www.9csound.com/game-audio">Audio Engineer</a> and <a href="https://www.linkedin.com/in/e-briones-escalera/">Technical Sound Designer</a> 
+<h1>Welcome! I'm Estefania <br/><a href="https://www.9csound.com/contact-me">Audio Engineer</a> and <a href="https://www.linkedin.com/in/e-briones-escalera/">Technical Sound Designer</a> 
 
 
 
