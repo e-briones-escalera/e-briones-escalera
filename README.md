@@ -7,7 +7,7 @@
 <h4>How to navigate:</h4> Each folder contains a focused audio system or technical feature. A READ ME with summary, features, tech notes, and video links. A code samples or blueprints (when applicable), and NO propietary assets (to keep this repo safe and lean).
 
 <h4>Tech tools I often use:</h4> 
-Unreal Engine 5 (Blueprints & C++), Wwise, Fmod, Pro Tools, and Logic Pro.
+Unreal Engine 5, Wwise, Fmod, Pro Tools, and Logic Pro.
  
 
 <h2>👾Programming and Game Development</h2>
