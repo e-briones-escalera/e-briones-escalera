@@ -21,7 +21,7 @@ Unreal Engine 5, Wwise, Fmod, Pro Tools, and Logic Pro.
   - [Blueprint RMS Audio Analyzer](https://www.instagram.com/9csound/)
  
 - <b> Case Studies: </b>
-  - [Stealth AI Game (In Development)](https://www.instagram.com/9csound/)
+  - [AI Reactive System for Stealth Game](https://github.com/e-briones-escalera/AI-Reactive-System-Stealth-Game)
 
 <h2>🎞️Motion Picture Projects</h2>
 
