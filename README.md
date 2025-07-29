@@ -6,7 +6,10 @@
 
 <h4>Tech tools I often use:</h4> 
 Unreal Engine 5, Wwise, Fmod, Pro Tools, and Logic Pro.
- 
+
+<h4>What am I up to right now?</h4> 
+Currently learning C++ and deepening my Blueprint knowledge through structured certifications! I'm also actively working as Technical Sound Designer on three games: one game jam, and two final projects of the Game Design program at VFS.
+
 
 <h2>👾Programming and Game Development</h2>
 
