@@ -10,15 +10,12 @@ Unreal Engine 5, Wwise, Fmod, Pro Tools, and Logic Pro.
 
 <h2>👾Programming and Game Development</h2>
 
-- <b> Open Tools:</b>
-  - [RMS Analyzer](https://github.com/e-briones-escalera/RMS-Audio-Analyzer)
-
 - <b> Experiments (work in progress): </b>
   - [Light reacts to Player's Audio](https://github.com/e-briones-escalera/Audio-Reactive-Light)
   - [Reactive Audio based on Player's Performance](https://github.com/e-briones-escalera/Reactive-Audio-Player-Performance)
+  - [RMS Analyzer](https://github.com/e-briones-escalera/RMS-Audio-Analyzer)
  
-- <b> Case Studies: </b>
-  - [Creature Voice Morpher](https://github.com/e-briones-escalera/Creature-Voice-Morpher)
+- <b> Special Projects: </b>
   - [AI Reactive System for Stealth Game](https://github.com/e-briones-escalera/AI-Reactive-System-Stealth-Game)
   - [Spatial Audio (AK Rooms and Portals)](https://github.com/e-briones-escalera/AK-Rooms-Portals)
 
