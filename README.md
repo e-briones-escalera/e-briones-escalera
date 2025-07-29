@@ -18,8 +18,8 @@ Unreal Engine 5, Wwise, Fmod, Pro Tools, and Logic Pro.
   - [Reactive Audio based on Player's Performance](https://github.com/e-briones-escalera/Reactive-Audio-Player-Performance)
  
 - <b> Case Studies: </b>
-  - [AI Reactive System for Stealth Game](https://github.com/e-briones-escalera/Creature-Voice-Morpher)
-  - [Creature Voice Morpher](https://github.com/e-briones-escalera/AI-Reactive-System-Stealth-Game)
+  - [Creature Voice Morpher](https://github.com/e-briones-escalera/Creature-Voice-Morpher)
+  - [AI Reactive System for Stealth Game](https://github.com/e-briones-escalera/AI-Reactive-System-Stealth-Game)
   - [Spatial Audio (AK Rooms and Portals)](https://github.com/e-briones-escalera/AK-Rooms-Portals)
 
 <h2>🎞️Motion Picture Projects</h2>
